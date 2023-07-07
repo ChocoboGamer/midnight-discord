@@ -49,7 +49,7 @@
 	/* overlay background on stuff when clicked or selected */
 	--active-modifier: hsl(197, 11%, 24%);
 	/* overlay background on messages when hovered over */
-	--message-hover-modifier: hsl(205, 13%, 18%);
+	--message-hover-modifier: hsl(202, 12%, 13%);
 	/* radius of round corners */
 	--roundness: 16px;
 }
