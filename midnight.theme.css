@@ -27,7 +27,7 @@
 	/* background of messages that mention you on hover */
 	--mention-hover-modifier: hsla(135, 33%, 63%, 0.05);
 	/* bright text for colored buttons */
-	--bright-text: hsl(135, 7%, 64%);
+	--bright-text: hsl(140, 100%, 1%);
 	/* header text for headers and certain text */
 	--header-text: hsl(220, 30%, 70%);
 	/* main text color (messages, titles, unread text/indicators) */
