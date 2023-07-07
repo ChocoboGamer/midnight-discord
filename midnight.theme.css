@@ -31,11 +31,11 @@
 	/* header text for headers and certain text */
 	--header-text: hsl(220, 30%, 70%);
 	/* main text color (messages, titles, unread text/indicators) */
-	--primary-text: hsl(220, 15%, 60%);
+	--primary-text: hsl(41, 32%, 75%);
 	/* secondary text color (channels, descriptions, buttons) */
-	--secondary-text: hsl(220, 15%, 40%);
+	--secondary-text: hsl(138, 6%, 55%);
 	/* muted text color (input box placeholders, muted channels, message times) */
-	--muted-text: hsl(220, 15%, 24%);
+	--muted-text: hsl(110, 5%, 49%);
 	/* background of muted colored buttons on hover */
 	--muted-background-hover: hsl(220, 15%, 20%);
 	/* background of muted colored buttons on click */
