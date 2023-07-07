@@ -27,15 +27,15 @@
 	/* background of messages that mention you on hover */
 	--mention-hover-modifier: hsla(135, 33%, 63%, 0.05);
 	/* bright text for colored buttons */
-	--bright-text: #D3C6AA;
+	--bright-text: hsl(41, 32%, 75%);
 	/* header text for headers and certain text */
-	--header-text: #83C092;
+	--header-text: hsl(135, 33%, 63%);
 	/* main text color (messages, titles, unread text/indicators) */
-	--primary-text: #D3C6AA;
+	--primary-text: hsl(41, 32%, 75%);
 	/* secondary text color (channels, descriptions, buttons) */
-	--secondary-text: #859289;
+	--secondary-text: hsl(138, 6%, 55%);
 	/* muted text color (input box placeholders, muted channels, message times) */
-	--muted-text: #7A8478;
+	--muted-text: hsl(110, 5%, 49%);
 	/* background of muted colored buttons on hover */
 	--muted-background-hover: hsl(220, 15%, 20%);
 	/* background of muted colored buttons on click */
